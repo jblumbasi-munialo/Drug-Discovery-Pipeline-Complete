@@ -1,0 +1,13 @@
+target_gene,drug_name,drug_type,approval_status,indication,clinical_trials,pathway,priority_score,docking_score_kcal,binding_quality
+ERBB2,Trastuzumab,Monoclonal antibody,FDA Approved,Breast cancer,245,HER2/PI3K/AKT,3.9794098873144046,-11.2,Strong
+ERBB2,Pertuzumab,Monoclonal antibody,FDA Approved,Breast cancer,245,HER2/PI3K/AKT,3.9794098873144046,-10.8,Strong
+ERBB2,Lapatinib,TKI,FDA Approved,Breast cancer,245,HER2/PI3K/AKT,3.9794098873144046,-9.5,Strong
+ERBB2,Neratinib,TKI,FDA Approved,Breast cancer,245,HER2/PI3K/AKT,3.9794098873144046,-6.9039430163865205,Weak
+ERBB2,Tucatinib,TKI,FDA Approved,Breast cancer,245,HER2/PI3K/AKT,3.9794098873144046,-7.665917161405422,Moderate
+MYC,JQ1,BET inhibitor,Phase I/II,Solid tumors,67,Transcription regulation,3.1426311407373992,-8.5,Moderate
+MYC,OTX-015,BET inhibitor,Phase I/II,Solid tumors,67,Transcription regulation,3.1426311407373992,-8.2,Moderate
+MYC,CPI-0610,BET inhibitor,Phase II,Myeloma,67,Transcription regulation,3.1426311407373992,-6.722773754279169,Weak
+KRAS,Sotorasib,G12C inhibitor,FDA Approved,NSCLC,156,MAPK,2.5026925765839385,-9.8,Strong
+KRAS,Adagrasib,G12C inhibitor,FDA Approved,NSCLC,156,MAPK,2.5026925765839385,-9.5,Strong
+KRAS,MRTX849,G12C inhibitor,Phase III,NSCLC/CRC,156,MAPK,2.5026925765839385,-5.6723641723103695,Weak
+KRAS,JDQ443,G12C inhibitor,Phase III,NSCLC,156,MAPK,2.5026925765839385,-7.780984049668003,Moderate

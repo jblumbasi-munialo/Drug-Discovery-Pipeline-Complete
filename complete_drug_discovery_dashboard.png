@@ -1,0 +1,4 @@
+drug,lipinski,violations,veber,absorption,hepatotoxicity,cardiotoxicity
+Trastuzumab,Fail,3,Poor bioavailability,Low (HIA < 30%),Medium,Low
+Sotorasib,Pass,1,Good bioavailability,Moderate (HIA 30-70%),Low,Low
+Lapatinib,Pass,1,Good bioavailability,Moderate (HIA 30-70%),Low,Medium

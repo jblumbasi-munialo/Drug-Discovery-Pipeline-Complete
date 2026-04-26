@@ -1,0 +1,4 @@
+drug,dissociation_time_ns,stability
+Trastuzumab,10.0,Slow dissociation (stable complex)
+Sotorasib,10.0,Slow dissociation (stable complex)
+Lapatinib,10.0,Slow dissociation (stable complex)

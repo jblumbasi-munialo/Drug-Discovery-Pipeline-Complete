@@ -1,0 +1,4 @@
+hydrogen_bond_donors,hydrogen_bond_acceptors,aromatic_rings,hydrophobic_centers,positive_charge,negative_charge,drug
+16,16,0,12,0,0,Trastuzumab
+4,4,0,6,0,0,Sotorasib
+5,5,0,6,0,0,Lapatinib

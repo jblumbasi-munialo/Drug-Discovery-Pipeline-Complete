@@ -1,0 +1,11 @@
+Residue,Degree_Centrality
+RES_1,1.0
+RES_2,1.0
+RES_3,1.0
+RES_4,1.0
+RES_5,1.0
+RES_6,1.0
+RES_7,1.0
+RES_8,1.0
+RES_9,1.0
+RES_10,1.0

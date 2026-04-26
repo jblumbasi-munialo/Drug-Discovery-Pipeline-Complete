@@ -1,0 +1,13 @@
+target_gene,drug_name,binding_affinity_kcal,binding_quality,structure_available,uniprot_id,pdb_file
+ERBB2,Trastuzumab,-11.2,Strong,False,P04626,real_structures/ERBB2_P04626_simulated.pdb
+ERBB2,Pertuzumab,-10.8,Strong,False,P04626,real_structures/ERBB2_P04626_simulated.pdb
+KRAS,Sotorasib,-9.8,Strong,False,P01116,real_structures/KRAS_P01116_simulated.pdb
+ERBB2,Lapatinib,-9.5,Strong,False,P04626,real_structures/ERBB2_P04626_simulated.pdb
+KRAS,Adagrasib,-9.5,Strong,False,P01116,real_structures/KRAS_P01116_simulated.pdb
+ERBB2,Neratinib,-9.3,Strong,False,P04626,real_structures/ERBB2_P04626_simulated.pdb
+ERBB2,Tucatinib,-9.1,Strong,False,P04626,real_structures/ERBB2_P04626_simulated.pdb
+KRAS,MRTX849,-8.9,Moderate,False,P01116,real_structures/KRAS_P01116_simulated.pdb
+KRAS,JDQ443,-8.7,Moderate,False,P01116,real_structures/KRAS_P01116_simulated.pdb
+MYC,JQ1,-8.5,Moderate,False,P01106,real_structures/MYC_P01106_simulated.pdb
+MYC,OTX-015,-8.2,Moderate,False,P01106,real_structures/MYC_P01106_simulated.pdb
+MYC,CPI-0610,-7.8,Moderate,False,P01106,real_structures/MYC_P01106_simulated.pdb
